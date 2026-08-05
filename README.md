@@ -12,7 +12,6 @@
 
 Locanize helps agencies and local businesses in the U.S. track and improve their presence in local search — covering rank tracking, listing audits, and reporting across their Google Business Profile and local search footprint.
 
-<!-- 📸 Add a hero/landing page screenshot here -->
 ![Locanize overview](docs/Locanize-Overview.png)
 
 ---
@@ -26,9 +25,9 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 - **Website Crawler** — crawls websites for NLP and keyword research
 - **Client Dashboard** — agency-ready reports and dashboards
 
-![Client Dashboard](docs/Dashbord.png)
+![Client Dashboard](docs/Dashboard.png)
 
-![Local Grid Tracker](docs/Grid Tracker.png)
+![Local Grid Tracker](docs/Grid-Tracker.png)
 
 ![Business Information](docs/Business-Info.png)
 
@@ -53,7 +52,6 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 
 ### Key Technical Challenges
 
-<!-- This section carries the most weight for technical reviewers — fill in specifics -->
 - _e.g. Rate-limited, large-scale local rank scraping across geo-grids_
 - _e.g. Multi-tenant data isolation for agency clients_
 - _e.g. Scheduling and reliability of recurring audit/report jobs_
@@ -74,8 +72,10 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 
 ## Screenshots
 
+# Sign Up Page
 ![Sign Up page](docs/SignUp.png)
 
+# User Settings Page
 ![User Settings](docs/Settings.png)
 
 ---
