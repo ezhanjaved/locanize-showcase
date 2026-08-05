@@ -25,14 +25,19 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 - **Website Crawler** — crawls websites for NLP and keyword research
 - **Client Dashboard** — agency-ready reports and dashboards
 
+#### Client Dashboard
 ![Client Dashboard](docs/Dashboard.png)
 
+#### Grid Tracker
 ![Local Grid Tracker](docs/Grid-Tracker.png)
 
+#### Business Info
 ![Business Information](docs/Business-Info.png)
 
+#### Keyword Tracking
 ![Keyword Tracking](docs/Keyword-Tracking.png)
 
+#### Website Crawler
 ![Website Crawler](docs/Website-Crawler.png)
 
 ---
