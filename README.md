@@ -44,7 +44,7 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 
 ## System Design
 
-![System architecture](docs/architecture.png)
+![System architecture](docs/System-Design.png)
 
 ### Architecture Overview
 
