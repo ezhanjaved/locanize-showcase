@@ -13,7 +13,7 @@
 Locanize helps agencies and local businesses in the U.S. track and improve their presence in local search — covering rank tracking, listing audits, and reporting across their Google Business Profile and local search footprint.
 
 <!-- 📸 Add a hero/landing page screenshot here -->
-![Locanize overview](docs/overview.png)
+![Locanize overview](docs/Locanize-Overview.png)
 
 ---
 
@@ -21,33 +21,35 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 
 <!-- Replace/expand with the actual feature set -->
 - **Local rank tracking** — monitor keyword rankings across geo-grids
-- **Google Business Profile auditing** — surface issues impacting visibility
-- **Competitor analysis** — benchmark against local competitors
-- **Client reporting** — agency-ready reports and dashboards
+- **Google Business Profile** — surface issues impacting visibility
+- **Keyword Tracking** — benchmark against local competitors
+- **Website Crawler** — crawls websites for NLP and keyword research
+- **Client Dashboard** — agency-ready reports and dashboards
 
-<!-- 📸 Add feature screenshots below -->
-![Rank tracking dashboard](docs/rank-tracking.png)
+![Client Dashboard](docs/Dashbord.png)
 
-![Audit report](docs/audit-report.png)
+![Local Grid Tracker](docs/Grid Tracker.png)
 
-![Client dashboard](docs/dashboard.png)
+![Business Information](docs/Business-Info.png)
+
+![Keyword Tracking](docs/Keyword-Tracking.png)
+
+![Website Crawler](docs/Website-Crawler.png)
 
 ---
 
 ## System Design
 
-<!-- 📸 Add architecture diagram here -->
 ![System architecture](docs/architecture.png)
 
 ### Architecture Overview
 
-<!-- Fill in with real details -->
-- **Frontend:** _[e.g. React]_
-- **Backend:** _[e.g. FastAPI / Node.js]_
-- **Database:** _[e.g. PostgreSQL]_
-- **Background jobs / queues:** _[e.g. Celery, RabbitMQ, Redis]_
-- **Third-party integrations:** _[e.g. Google Business Profile API, Google Maps]_
-- **Infrastructure:** _[hosting, deployment pipeline, etc.]_
+- **Frontend:** React, Zustand
+- **Backend:** FastAPI, Node, Express
+- **Database:** PostgreSQL
+- **Background jobs / queues:** Celery, RabbitMQ, Redis
+- **Third-party integrations:** Google Business Profile API, Mapbox API, DeepSeek API
+- **Infrastructure:** Vercel, Render, Docker
 
 ### Key Technical Challenges
 
@@ -60,23 +62,21 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 
 ## Tech Stack
 
-<!-- Adjust to match what Locanize actually uses -->
 | Layer | Technology |
 |---|---|
-| Frontend | |
-| Backend | |
-| Database | |
-| Infra / DevOps | |
-| Payments | |
+| Frontend | React, Zustand |
+| Backend | Node, Express, FastAPI |
+| Database | PostgreSQL |
+| Infra / DevOps | Docker, Celery, RabbitMQ |
+| Payments | Paddle Webhook |
 
 ---
 
 ## Screenshots
 
-<!-- 📸 Additional screenshots can go here -->
-![Screenshot 1](docs/screenshot-1.png)
+![Sign Up page](docs/SignUp.png)
 
-![Screenshot 2](docs/screenshot-2.png)
+![User Settings](docs/Settings.png)
 
 ---
 
