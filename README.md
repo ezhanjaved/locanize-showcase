@@ -72,10 +72,10 @@ Locanize helps agencies and local businesses in the U.S. track and improve their
 
 ## Screenshots
 
-# Sign Up Page
+#### Sign Up Page
 ![Sign Up page](docs/SignUp.png)
 
-# User Settings Page
+#### User Settings Page
 ![User Settings](docs/Settings.png)
 
 ---
